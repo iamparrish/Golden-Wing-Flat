@@ -7,8 +7,6 @@ A premium, feature-rich Flappy Bird-style arcade game built with pure HTML5, CSS
 ![HTML](https://img.shields.io/badge/HTML-21.0%25-orange)
 ![PWA](https://img.shields.io/badge/PWA-Installable-green)
 
----
-
 ## 🎮 About the Game
 
 Golden Wing takes the timeless flap-and-dodge formula and wraps it in a premium arcade experience. Guide your golden bird through an endless gauntlet of pipes, collect coins for combo multipliers, chase daily challenges, and unlock achievements — all set against a stunning animated sky that shifts between dawn, dusk, and night.
