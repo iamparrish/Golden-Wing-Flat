@@ -50,8 +50,6 @@ Built entirely without game engines or external libraries, every system — phys
 - Complete icon set: `.ico`, `.svg`, 16×16, 32×32, 48×48, 180×180, 192×192, 512×512, Apple Touch Icon
 - `manifest.json` with `theme-color: #1B2A4A`
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -74,8 +72,6 @@ Open `index.html` in your browser and start flying!
 > python -m http.server 8080
 > ```
 
----
-
 ## 🗂️ Project Structure
 
 ```
@@ -96,8 +92,6 @@ Golden-Wing-Flat/
 ├── icon-192.png            # PWA maskable icon (192×192)
 └── icon-512.png            # PWA maskable icon (512×512)
 ```
-
----
 
 ## 🕹️ How to Play
 
