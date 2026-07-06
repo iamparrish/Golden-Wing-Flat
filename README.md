@@ -13,8 +13,6 @@ Golden Wing takes the timeless flap-and-dodge formula and wraps it in a premium 
 
 Built entirely without game engines or external libraries, every system — physics, rendering, audio, particles — is handcrafted from scratch.
 
----
-
 ## ✨ Features
 
 ### Core Gameplay
